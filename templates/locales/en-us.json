@@ -7,4 +7,12 @@
 , "model.validatesMinLength": "\"{name}\" must be at least {min} characters long."
 , "model.validatesMaxLength": "\"{name}\" may not be more than {max} characters long."
 , "model.validatesWithFunction": "\"{name}\" is not valid."
+, "model.validatesNumber": "\"{name}\" is not a number."
+, "model.validatesInteger": "\"{name}\" is not an integer."
+, "model.validatesBoolean": "\"{name}\" is not a boolean."
+, "model.validatesObject": "\"{name}\" is not an object."
+, "model.validatesArray": "\"{name}\" is not an array."
+, "model.validatesDate": "\"{name}\" is not in a valid date format."
+, "model.validatesDateTime": "\"{name}\" is not in a valid datetime format."
+, "model.validatesTime": "\"{name}\" is not in a valid time format."
 }
